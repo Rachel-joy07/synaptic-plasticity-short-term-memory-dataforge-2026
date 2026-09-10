@@ -205,7 +205,7 @@ BDH-CQ (2026) extends the BDH family toward in-context learning with recurrent l
 Python 3.10+ is recommended.
 
 ```bash
-git clone <PUBLIC-REPOSITORY-URL>
+git clone https://github.com/Rachel-joy07/synaptic-plasticity-short-term-memory-dataforge-2026.git
 cd DataForge
 python -m venv venv
 ```
