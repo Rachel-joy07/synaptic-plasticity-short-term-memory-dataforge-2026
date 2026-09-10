@@ -3,6 +3,7 @@
 ### Topic: Synaptic Plasticity as Short-Term Memory
 
 **Public artifact:** https://synaptic-memory-dataforge.streamlit.app
+
 **Public source:** https://github.com/Rachel-joy07/synaptic-plasticity-short-term-memory-dataforge-2026
 
 ---
